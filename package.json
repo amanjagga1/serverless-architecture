@@ -1,11 +1,16 @@
 {
-  "name": "firebase-graphs",
+  "name": "serverless-architecture",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.19.0",
+    "firebase": "^6.6.1",
     "react": "^16.9.0",
+    "react-d3-components": "^0.9.1",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-firebaseui": "^4.0.0",
+    "react-scripts": "3.1.1",
+    "recharts": "^1.7.1"
   },
   "scripts": {
     "start": "react-scripts start",
